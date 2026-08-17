@@ -27,7 +27,7 @@
 
 AI・開発コミュニティのWebサイトを、企画からフロントエンド、バックエンド、AI機能、AWS、デプロイ、運用まで一貫して開発しています。
 
-[Website](https://tti-intel.com/)
+[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
 
 ## Focus
 

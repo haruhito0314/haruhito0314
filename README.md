@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180" valign="middle">
-      <img src="https://raw.githubusercontent.com/haruhito0314/haruhito0314/main/assets/profile/profile-square.jpg" width="160" alt="Haruhito Mabuchi">
+      <img src="assets/profile/profile-square.jpg" width="160" alt="Haruhito Mabuchi">
     </td>
     <td valign="middle">
       <h1>Haruhito Mabuchi</h1>

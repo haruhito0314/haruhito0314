@@ -15,15 +15,19 @@
 
 ### CREA Corporate Website
 
+![CREA Corporate Website](assets/works/crea-hero.jpg)
+
 企業向けコーポレートサイトを、情報設計からデザイン、実装、レスポンシブ対応、公開・運用まで担当しました。
 
-[Live Website](https://tech-crea.com/) · [Case Study](https://github.com/haruhito0314/portfolio/blob/main/works/crea.md)
+[Website](https://tech-crea.com/)
 
 ### TTI Intelligence
 
+![TTI Intelligence](assets/works/tti-hero.jpg)
+
 AI・開発コミュニティのWebサイトを、企画からフロントエンド、バックエンド、AI機能、AWS、デプロイ、運用まで一貫して開発しています。
 
-[Live Website](https://tti-intel.com/) · [Case Study](https://github.com/haruhito0314/portfolio/blob/main/works/tti-intelligence.md) · [Source](https://github.com/haruhito0314/tti-intel-web)
+[Website](https://tti-intel.com/)
 
 ## Focus
 

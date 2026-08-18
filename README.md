@@ -1,42 +1,27 @@
-<table>
-  <tr>
-    <td width="180" valign="middle">
-      <img src="assets/profile/profile-square.jpg" width="160" alt="Haruhito Mabuchi">
-    </td>
-    <td valign="middle">
-      <h1>Haruhito Mabuchi</h1>
-      <h3>AI / Web Developer</h3>
-      <p>AIとWebを軸に、企画・情報設計・デザイン・実装・公開後の運用まで一貫して取り組んでいます。</p>
-    </td>
-  </tr>
-</table>
+**AI / Web Developer**
 
-## Featured Works
+企画・情報設計・デザイン・実装・公開後の運用まで、WebとAIを一貫して担当しています。
+
+## Featured
 
 ### CREA Corporate Website
 
-![CREA Corporate Website](assets/works/crea-hero.jpg)
+<img src="assets/works/crea-hero.jpg" alt="CREA Corporate Website" width="800">
 
-企業向けコーポレートサイトを、情報設計からデザイン、実装、レスポンシブ対応、公開・運用まで担当しました。
+情報設計 / デザイン / フロントエンド / レスポンシブ / 公開・運用
 
 [Website](https://tech-crea.com/)
 
 ### TTI Intelligence
 
-![TTI Intelligence](assets/works/tti-hero.jpg)
+<img src="assets/works/tti-hero.jpg" alt="TTI Intelligence" width="800">
 
-AI・開発コミュニティのWebサイトを、企画からフロントエンド、バックエンド、AI機能、AWS、デプロイ、運用まで一貫して開発しています。
+企画 / UI / フロントエンド / バックエンド / AI / AWS / 運用
 
-[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
+[Website](https://tti-intel.com/) · [Source](https://github.com/haruhito0314/tti-intel-web)
 
-## Focus
+## Stack
 
-- AIを組み込んだWebアプリケーション
-- React / TypeScriptによるフロントエンド開発
-- AWSを利用したバックエンド・インフラ構築
-- 情報設計、UI設計、レスポンシブ対応
-- 企画からデプロイ、継続運用までの一貫した開発
+TypeScript · React · AWS · Information Architecture · UI Design
 
-## Portfolio
-
-制作背景や担当範囲は、[Portfolio Repository](https://github.com/haruhito0314/portfolio) にまとめています。
+制作背景と担当範囲は [portfolio](https://github.com/haruhito0314/portfolio) にまとめています。

@@ -4,7 +4,10 @@ Toyota Technological Institute, 2025–
 
 企画・情報設計・デザイン・実装・公開後の運用まで、WebとAIを担当しています。
 
-[Instagram](https://instagram.com/haruhito_314)
+<a href="https://instagram.com/haruhito_314">
+  <img src="assets/icons/instagram-light.svg#gh-light-mode-only" width="22" height="22" alt="Instagram">
+  <img src="assets/icons/instagram-dark.svg#gh-dark-mode-only" width="22" height="22" alt="Instagram">
+</a>
 
 ## Featured
 

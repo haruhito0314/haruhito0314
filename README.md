@@ -1,4 +1,4 @@
-<p><b>AI / Web Developer</b>&nbsp;&nbsp;<a href="https://instagram.com/haruhito_314"><img src="assets/icons/instagram.svg" width="22" height="22" alt="Instagram" align="absmiddle"></a></p>
+**AI / Web Developer**
 
 Toyota Technological Institute, 2025–
 

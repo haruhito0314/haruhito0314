@@ -4,6 +4,8 @@ Toyota Technological Institute, 2025–
 
 企画・情報設計・デザイン・実装・公開後の運用まで、WebとAIを担当しています。
 
+[Instagram](https://instagram.com/haruhito_314)
+
 ## Featured
 
 ### CREA Corporate Website

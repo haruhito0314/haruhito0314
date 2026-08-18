@@ -12,7 +12,7 @@ Toyota Technological Institute, 2025–
 
 <img src="assets/works/crea-framed.png" alt="CREA Corporate Website" width="800">
 
-情報設計、デザイン、フロントエンド、公開・運用
+情報設計、デザイン、フロントエンド、バックエンド
 
 [Website](https://tech-crea.com/)
 

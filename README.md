@@ -22,8 +22,6 @@ Toyota Technological Institute, 2025–
 
 <img src="assets/works/tti-framed.png" alt="TTI Intelligence" width="800">
 
-AI Assistant は、レビュー済みの knowledge pack と DynamoDB 上の公開コンテンツを Lambda で組み立て、Generative AI API に渡します。資料にないことは補わず、確認済みリンクだけを返します。
-
 <img src="assets/works/tti-assistant-architecture.png" alt="TTI Intelligence AI Assistant architecture" width="800">
 
 企画、UI、フロントエンド、バックエンド、AI、AWS、運用

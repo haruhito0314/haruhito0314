@@ -1,33 +1,48 @@
-**AI / Web Developer**
+# Haruhito Mabuchi
+
+**Web / AI Developer**
+
+AIを使ったサービスと、コミュニティのためのWebアプリを作っています。  
+企画・情報設計・UIデザインから、フロントエンド、バックエンド、インフラ、公開後の運用まで担当しています。
 
 Toyota Technological Institute, 2025–
 
-企画・情報設計・デザイン・実装・公開後の運用まで、WebとAIを担当しています。
+## Featured Projects
 
-## Featured
+### kikiha
 
-### CREA Corporate Website
+**会議の会話を、字幕・翻訳・議事録へ。**
 
-初めて訪れた人でも、事業と支援の姿勢が短時間でわかるようにしたコーポレートサイトです。
+文字起こし、多言語翻訳、議事録・TODOの生成をまとめた会議AIアシスタントを開発しています。会議中の字幕共有から、会議後の振り返りまでをつなぐサービスです。
 
-<img src="assets/works/crea-framed.png" alt="CREA Corporate Website" width="800">
-
-情報設計、デザイン、フロントエンド、バックエンド
-
-[Website](https://tech-crea.com/)
+**Status:** 招待制・開発中  
+**Tech:** Next.js · TypeScript · PostgreSQL · WebSocket
 
 ### TTI Intelligence
 
-学びと開発の成果を、継続して公開できるコミュニティの場として設計しています。
+**学びと開発の成果を、継続して公開できる場所へ。**
 
-<img src="assets/works/tti-framed.png" alt="TTI Intelligence" width="800">
+豊田工業大学の学生を中心としたAI・開発コミュニティのWebサービスです。活動紹介、学習コンテンツ、掲示板、開発成果、サイト内AI Assistantをまとめています。
 
-<img src="assets/works/tti-assistant-architecture.png" alt="TTI Intelligence AI Assistant architecture" width="800">
+<img src="assets/works/tti-framed.png" alt="TTI IntelligenceのWebサイト" width="800">
 
-企画、UI、フロントエンド、バックエンド、AI、AWS、運用
+**Role:** 企画・情報設計・UIデザイン・フロントエンド・バックエンド・AI・AWS・運用  
+**Tech:** React · TypeScript · AWS CDK · Lambda · DynamoDB
 
-[Website](https://tti-intel.com/) · [Source](https://github.com/haruhito0314/tti-intel-web)
+[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
 
-TypeScript · React · AWS · 情報設計 · UI Design
+<details>
+<summary>AI Assistantの構成</summary>
 
-制作背景は [portfolio](https://github.com/haruhito0314/portfolio) にまとめています。
+<img src="assets/works/tti-assistant-architecture.png" alt="TTI Intelligence AI Assistantの構成図" width="800">
+
+</details>
+
+## Other Projects
+
+- **[Discord Bot](https://github.com/haruhito0314/discord-bot)** — チャンネル管理、メッセージ履歴のバックアップ・復元、通話参加時間の記録など、コミュニティ運営を支えるBot。
+- **ゼロから学ぶフルスタックWeb開発教材** — 教材本文、学習サイト、章別の参照実装をまとめたWeb開発教材。
+
+## Technologies
+
+TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · AWS

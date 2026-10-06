@@ -7,6 +7,13 @@ AIを使ったサービスと、コミュニティのためのWebアプリを作
 
 Toyota Technological Institute, 2025–
 
+## Experience
+
+**[SalesNow](https://salesnow.co.jp/) — Intern**  
+2026.09 – Present
+
+データ処理基盤の開発・改善と、AI生成データの品質改善に取り組んでいます。
+
 ## Featured Projects
 
 ### kikiha

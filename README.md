@@ -20,9 +20,13 @@ Toyota Technological Institute, 2025–
 
 **会議の会話を、字幕・翻訳・議事録へ。**
 
-文字起こし、多言語翻訳、議事録・TODOの生成をまとめた会議AIアシスタントを開発しています。会議中の字幕共有から、会議後の振り返りまでをつなぐサービスです。
+文字起こし、多言語翻訳、議事録・TODOの生成をまとめた会議AIアシスタントを開発しています。Zoom・Google Meet・Teamsやマイクでの会話を、リアルタイムの字幕から会議後の振り返り・共有までつなぐサービスです。サービス紹介サイトと紹介動画も制作・公開しています。
 
-**Status:** 招待制・開発中  
+[<img src="assets/works/kikiha-site.jpg" alt="kikihaのサービス紹介サイト" width="680">](https://kikiha.com/)
+
+[Website](https://kikiha.com/) · [紹介動画](https://kikiha.com/demo)
+
+**Status:** 招待制で提供中・継続開発  
 **Tech:** Next.js · TypeScript · PostgreSQL · WebSocket
 
 ### TTI Intelligence
@@ -31,9 +35,9 @@ Toyota Technological Institute, 2025–
 
 豊田工業大学の学生を中心としたAI・開発コミュニティのWebサービスです。活動紹介、学習コンテンツ、掲示板、開発成果、サイト内AI Assistantをまとめています。
 
-<img src="assets/works/tti-framed.png" alt="TTI IntelligenceのWebサイト" width="800">
+<img src="assets/works/tti-site.jpg" alt="TTI IntelligenceのWebサイト" width="680">
 
-**Role:** 企画・情報設計・UIデザイン・フロントエンド・バックエンド・AI・AWS・運用  
+**Role:** 企画・設計・開発・AWS構築・運用  
 **Tech:** React · TypeScript · AWS CDK · Lambda · DynamoDB
 
 [Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)

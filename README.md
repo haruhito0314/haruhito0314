@@ -42,13 +42,6 @@ Toyota Technological Institute, 2025–
 
 [Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
 
-<details>
-<summary>AI Assistantの構成</summary>
-
-<img src="assets/works/tti-assistant-architecture.png" alt="TTI Intelligence AI Assistantの構成図" width="800">
-
-</details>
-
 ## Other Projects
 
 - **[Discord Bot](https://github.com/haruhito0314/discord-bot)** — チャンネル管理、メッセージ履歴のバックアップ・復元、通話参加時間の記録など、コミュニティ運営を支えるBot。

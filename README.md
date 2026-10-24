@@ -30,9 +30,9 @@ SalesNowでは、データ処理基盤の開発・改善と、AI生成データ�
 
 ### kikiha
 
-**会議の会話を、字幕・翻訳・議事録へ。**
+<a href="https://kikiha.com/"><img src="assets/works/kikiha-card.svg" alt="kikihaのサービス紹介サイト" width="100%"></a>
 
-<a href="https://kikiha.com/"><img src="assets/works/kikiha-site.jpg" alt="kikihaのサービス紹介サイト" width="100%"></a>
+**会議の会話を、字幕・翻訳・議事録へ。**
 
 文字起こし、多言語翻訳、議事録・TODOの生成をまとめた会議AIアシスタント。Zoom・Google Meet・Teamsやマイクでの会話を、リアルタイムの字幕から会議後の振り返り・共有までつなぎます。
 
@@ -47,9 +47,9 @@ SalesNowでは、データ処理基盤の開発・改善と、AI生成データ�
 
 ### TTI Intelligence
 
-**学びと開発の成果を、継続して公開できる場所へ。**
+<a href="https://tti-intel.com/"><img src="assets/works/tti-card.svg" alt="TTI IntelligenceのWebサイト" width="100%"></a>
 
-<a href="https://tti-intel.com/"><img src="assets/works/tti-site.jpg" alt="TTI IntelligenceのWebサイト" width="100%"></a>
+**学びと開発の成果を、継続して公開できる場所へ。**
 
 豊田工業大学の学生を中心としたAI・開発コミュニティのWebサービス。活動紹介、学習コンテンツ、掲示板、開発成果、サイト内AI Assistantをまとめています。
 
@@ -70,6 +70,28 @@ SalesNowでは、データ処理基盤の開発・改善と、AI生成データ�
 
 ## Tech Stack
 
-**Frontend** &nbsp; TypeScript · JavaScript · React · Next.js  
-**Backend** &nbsp; Node.js · PostgreSQL · WebSocket  
-**Infrastructure** &nbsp; AWS · CDK · Lambda · DynamoDB
+### Frontend
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-182940?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" height="28">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-182940?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" height="28">
+  <img alt="React" src="https://img.shields.io/badge/React-182940?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" height="28">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-182940?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" height="28">
+</p>
+
+### Backend
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-182940?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" height="28">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-182940?style=for-the-badge&amp;logo=postgresql&amp;logoColor=78A8CE" height="28">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-182940?style=for-the-badge&amp;logoColor=FFFFFF" height="28">
+</p>
+
+### Infrastructure
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-182940?style=for-the-badge&amp;logoColor=FF9900" height="28">
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-182940?style=for-the-badge&amp;logoColor=FF9900" height="28">
+  <img alt="Lambda" src="https://img.shields.io/badge/Lambda-182940?style=for-the-badge&amp;logo=awslambda&amp;logoColor=FF9900" height="28">
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-182940?style=for-the-badge&amp;logo=amazondynamodb&amp;logoColor=7CA5FF" height="28">
+</p>

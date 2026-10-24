@@ -9,10 +9,10 @@ Toyota Technological Institute, 2025–
 
 ## Experience
 
-**[AIサプリ](https://aisapuri.jp/) — Intern**  
+**[AIサプリ](https://aisapuri.jp/company.html) — Intern**  
 2026.10 – Present
 
-**[SalesNow](https://salesnow.co.jp/) — Intern**  
+**[SalesNow](https://salesnow.co.jp/about/) — Intern**  
 2026.09 – Present
 
 データ処理基盤の開発・改善と、AI生成データの品質改善に取り組んでいます。
@@ -43,7 +43,7 @@ Toyota Technological Institute, 2025–
 **Role:** 企画・設計・開発・AWS構築・運用  
 **Tech:** React · TypeScript · AWS CDK · Lambda · DynamoDB
 
-[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
+[Website](https://tti-intel.com/)
 
 ## Other Projects
 

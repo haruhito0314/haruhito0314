@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://kikiha.com/">kikiha</a> &nbsp; / &nbsp;
-  <a href="https://tti-intel.com/">TTI Intelligence</a> &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/haruhito_314/">Instagram</a>
+  <a href="https://tti-intel.com/">TTI Intelligence</a>
 </p>
 
 AIを使ったサービスと、コミュニティのためのWebアプリを作っています。  

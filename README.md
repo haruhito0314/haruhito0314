@@ -48,7 +48,6 @@ Toyota Technological Institute, 2025–
 ## Other Projects
 
 - **[Discord Bot](https://github.com/haruhito0314/discord-bot)** — チャンネル管理、メッセージ履歴のバックアップ・復元、通話参加時間の記録など、コミュニティ運営を支えるBot。
-- **ゼロから学ぶフルスタックWeb開発教材** — 教材本文、学習サイト、章別の参照実装をまとめたWeb開発教材。
 
 ## Technologies
 

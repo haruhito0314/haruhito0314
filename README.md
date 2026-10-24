@@ -9,7 +9,7 @@ Toyota Technological Institute, 2025–
 
 ## Experience
 
-**AIサプリ — Intern**  
+**[AIサプリ](https://aisapuri.jp/) — Intern**  
 2026.10 – Present
 
 **[SalesNow](https://salesnow.co.jp/) — Intern**  

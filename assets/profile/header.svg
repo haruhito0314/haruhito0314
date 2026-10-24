@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Haruhito Mabuchi — Web / AI Developer</title>
+<desc id="desc">Building AI services and web applications. TypeScript, React, Next.js, Node.js, PostgreSQL and AWS.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b30"/><stop offset="1" stop-color="#08101f"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#53e3c2"/><stop offset="1" stop-color="#66a9ff"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91b5d9" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="370" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="370" rx="18" fill="url(#grid)"/>
+<rect x="44" y="43" width="4" height="174" rx="2" fill="url(#accent)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+<text x="72" y="67" fill="#63dbc7" font-size="15" font-weight="600" letter-spacing="3">WEB / AI DEVELOPER</text>
+<text x="68" y="137" fill="#f0f6ff" font-size="58" font-weight="720" letter-spacing="-2">Haruhito Mabuchi</text>
+<text x="72" y="180" fill="#b2c2d9" font-size="22">Building AI services &amp; web applications.</text>
+<text x="72" y="214" fill="#7188a7" font-size="16">Plan. Design. Develop. Ship.</text>
+<text x="72" y="263" fill="#7188a7" font-size="11" font-weight="600" letter-spacing="2.5">TOOLS I BUILD WITH</text>
+<g font-size="14" font-weight="600" text-anchor="middle">
+<rect x="72" y="281" width="120" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="132" y="305" fill="#7ab9ff">TypeScript</text>
+<rect x="203" y="281" width="82" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="244" y="305" fill="#70d7f5">React</text>
+<rect x="296" y="281" width="91" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="341.5" y="305" fill="#e4eaf4">Next.js</text>
+<rect x="398" y="281" width="96" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="446" y="305" fill="#9dd99a">Node.js</text>
+<rect x="505" y="281" width="126" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="568" y="305" fill="#9bbbe9">PostgreSQL</text>
+<rect x="642" y="281" width="74" height="37" rx="8" fill="#182940" stroke="#2c4160"/><text x="679" y="305" fill="#f6c477">AWS</text>
+</g>
+</g>
+<g transform="translate(934 141)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="-106" y="-83" width="238" height="176" rx="16" fill="#142239" stroke="#294461"/>
+<path d="M-106 -45H132" stroke="#294461"/>
+<circle cx="-84" cy="-64" r="4" fill="#f28f8f" stroke="none"/><circle cx="-68" cy="-64" r="4" fill="#e8c779" stroke="none"/><circle cx="-52" cy="-64" r="4" fill="#63cbb0" stroke="none"/>
+<path d="M-46 -10L-72 13L-46 36M65 -10L91 13L65 36M31 -20L-6 47" stroke="url(#accent)" stroke-width="7"/>
+<path d="M-63 68H-19M-6 68H31" stroke="#385676" stroke-width="4"/>
+</g>
+<path d="M843 323H1124" stroke="#233853"/><circle cx="1124" cy="323" r="4" fill="#53e3c2"/>
+</svg>

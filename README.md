@@ -47,6 +47,7 @@ Toyota Technological Institute, 2025–
 
 ## Other Projects
 
+- **[CREA コーポレートサイト](https://tech-crea.com/)** — 株式会社CREAの企業サイトを、設計・デザインから実装・公開まで一貫して担当しました。
 - **[Discord Bot](https://github.com/haruhito0314/discord-bot)** — チャンネル管理、メッセージ履歴のバックアップ・復元、通話参加時間の記録など、コミュニティ運営を支えるBot。
 
 ## Technologies

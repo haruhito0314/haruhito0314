@@ -9,13 +9,13 @@ Toyota Technological Institute, 2025–
 
 ## Experience
 
-**AIサプリ — Intern**  
-2026.10 – Present
-
 **[SalesNow](https://salesnow.co.jp/) — Intern**  
 2026.09 – Present
 
 データ処理基盤の開発・改善と、AI生成データの品質改善に取り組んでいます。
+
+**AIサプリ — Intern**  
+2026.10 – Present
 
 ## Featured Projects
 

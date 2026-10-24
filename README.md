@@ -2,11 +2,6 @@
   <img src="assets/profile/header.svg" alt="Haruhito Mabuchi — Web / AI Developer" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://kikiha.com/">kikiha</a> &nbsp; / &nbsp;
-  <a href="https://tti-intel.com/">TTI Intelligence</a>
-</p>
-
 AIを使ったサービスと、コミュニティのためのWebアプリを作っています。  
 企画・情報設計・UIデザインから、フロントエンド、バックエンド、インフラ、公開後の運用まで担当しています。
 
